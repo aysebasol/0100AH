@@ -1,4 +1,4 @@
-Ayşe Başol
+
 ## Status Report
  
 * 152 titles
